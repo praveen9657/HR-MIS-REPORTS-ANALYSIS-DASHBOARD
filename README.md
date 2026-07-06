@@ -83,11 +83,7 @@ Users can analyze data using:
 
 ## 📂 Project Files
 
-```
-HR MIS REPORTS ANALYSIS DASHBOARD.xlsx
-Excel Dashboard.jpeg
-README.md
-```
+- <a herf="https://github.com/praveen9657/HR-MIS-REPORTS-ANALYSIS-DASHBOARD/blob/main/HR%20MIS%20REPORTS%20ANALYSIS%20DASHBOARD.xlsx">Dataset</a>
 
 ---
 
@@ -130,15 +126,6 @@ The **HR MIS Reports Analysis Dashboard** transforms HR data into meaningful ins
 
 By providing dynamic filtering and clear performance metrics, the dashboard supports data-driven decision-making for improving employee retention, workforce planning, and overall organizational performance.
 
----
 
-## 👤 Author
 
-**Chepuri Purna Praveen**
 
-- GitHub: https://github.com/praveen9657
-- LinkedIn: *(Add your LinkedIn profile here)*
-
----
-
-## ⭐ If you found this project useful, please give it a Star!
